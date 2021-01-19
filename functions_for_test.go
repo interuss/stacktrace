@@ -15,7 +15,7 @@
 package stacktrace_test
 
 import (
-	"github.com/palantir/stacktrace"
+	"github.com/interuss/stacktrace"
 )
 
 type PublicObj struct{}
